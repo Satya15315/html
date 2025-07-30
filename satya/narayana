@@ -1,0 +1,5 @@
+You cannot post images to Instagram via API unless you’re using a Business account via Instagram Graph API.
+
+Instagram automation (like scraping or logging in) violates their terms of service and may get your account banned.
+
+If you need to automate posting, you must go through Facebook Graph API, which requires app review and approval.
